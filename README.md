@@ -17,8 +17,7 @@ Create your product's docs with a WordPress theme
 ### Contribution guidelines ###
 
 * Create your own branch
-* Ask before merging to master
-
+* Pull requests are welcomed
 
 ### Credits? ###
 
