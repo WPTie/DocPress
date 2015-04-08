@@ -55,8 +55,9 @@
 										 */
 										$dp_loop_args = array(
 
-											'cat'   => $dp_cat_id,
-											'order' => 'ASC'
+											'cat'            => $dp_cat_id,
+											'order'          => 'ASC',
+											'posts_per_page' => -1
 										);
 
 										$dp_cat_post_titles = new WP_Query( $dp_loop_args );
