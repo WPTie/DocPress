@@ -51,6 +51,13 @@ function aa_dp_register_required_plugins() {
             'required'  => true,
         ),
 
+        // This is an example of how to include a plugin from the WordPress Plugin Repository.
+        array(
+            'name'      => 'Category Order and Taxonomy Terms Order',
+            'slug'      => 'taxonomy-terms-order',
+            'required'  => true,
+        ),
+
     );
 
     /**
