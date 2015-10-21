@@ -1,25 +1,17 @@
-# README #
-
+#DocPress
 Create your product's docs with a WordPress theme
 
-### DocPress ###
+- Document your product
+- Version 1.0.0
 
-* Document your product
-* Version 1.0.0
+##Work in Progress
 
-### How do I get set up? ###
+- [x] Basic WordPress Theme
+- [ ] Customizer Support
+- [ ] Logo Support
 
-*  Install the theme 
-* Install required plugin from TGM
-* Add Categories for top level menus
-* Add posts in the categories for sub-level menus
+### Credits?
+- HTML & CSS => Saqib Sarwar
+- WP Theme   => Ahmad Awais
 
-### Contribution guidelines ###
 
-* Create your own branch
-* Pull requests are welcomed
-
-### Credits? ###
-
-* HTML & CSS  => Saqib Sarwar
-* WP Theme      => Ahmad Awais
